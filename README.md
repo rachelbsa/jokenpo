@@ -1,17 +1,15 @@
 <h1>Projeto Jokenpo</h1>
 <br> 
-<p>Este é um projeto do jogo Jokenpo, também conheido como pedra, papel e tesoura.</p>
+<p>Este é um projeto do jogo Jokenpo, também conhecido como pedra, papel e tesoura.</p>
 
-<h2>Screenshot</h2>
+<p>Screenshot da página:<p>
 
-![Screenshot do projeto](images/screenshot.png)
+<img src="https://github.com/rachelbsa/jokenpo/blob/master/assets/readme.png?raw=true"/>
 
 <h3>Descrição</h3>
 
-Este projeto é uma aplicação web feita em aula, no curso DevClub, utilizando HTML, CSS e JavaScript.
+<p>Este projeto é uma aplicação web feita em aula, no curso DevClub, utilizando HTML, CSS e JavaScript.</p>
 
-## Como usar
+<p>Utilizamos o site picsum photos como background para que as imagens de fundo fossem trocadas de forma aleatória, de tempos em tempos, automaticamente.</p>  
 
-1. Clone o repositório
-2. Instale as dependências
-3. Execute o projeto
+
